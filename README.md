@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/coreycasmedes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Hash Table
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/coreycasmedes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
