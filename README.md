@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2401-count-asterisks](https://github.com/coreycasmedes/leetcode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/coreycasmedes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
