@@ -16,4 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/coreycasmedes/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Hash Table
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Greedy
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Counting
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
