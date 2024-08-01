@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2413-smallest-number-in-infinite-set](https://github.com/coreycasmedes/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/coreycasmedes/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/coreycasmedes/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
