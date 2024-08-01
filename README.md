@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/coreycasmedes/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/coreycasmedes/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2401-count-asterisks](https://github.com/coreycasmedes/leetcode/tree/master/2401-count-asterisks) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/coreycasmedes/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2413-smallest-number-in-infinite-set](https://github.com/coreycasmedes/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/coreycasmedes/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/coreycasmedes/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
