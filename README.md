@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/coreycasmedes/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2401-count-asterisks](https://github.com/coreycasmedes/leetcode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/coreycasmedes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coreycasmedes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/coreycasmedes/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
