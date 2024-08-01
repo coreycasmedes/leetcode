@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [2401-count-asterisks](https://github.com/coreycasmedes/leetcode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/coreycasmedes/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Stack
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Counting
 |  |
 | ------- |
