@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/coreycasmedes/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/coreycasmedes/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/coreycasmedes/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/coreycasmedes/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/coreycasmedes/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 ## Sorting
 |  |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/coreycasmedes/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/coreycasmedes/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
