@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/coreycasmedes/leetcode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/coreycasmedes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/coreycasmedes/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -41,16 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2413-smallest-number-in-infinite-set](https://github.com/coreycasmedes/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/coreycasmedes/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2487-optimal-partition-of-string](https://github.com/coreycasmedes/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/coreycasmedes/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/coreycasmedes/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/coreycasmedes/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/coreycasmedes/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/coreycasmedes/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
