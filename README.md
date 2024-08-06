@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/coreycasmedes/leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coreycasmedes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/coreycasmedes/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/coreycasmedes/leetcode/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/coreycasmedes/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 ## Sorting
