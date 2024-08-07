@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/coreycasmedes/leetcode/tree/master/1642-water-bottles) |
 | [2470-removing-stars-from-a-string](https://github.com/coreycasmedes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/coreycasmedes/leetcode/tree/master/1642-water-bottles) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/coreycasmedes/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sliding Window
 |  |
