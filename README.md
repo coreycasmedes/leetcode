@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/coreycasmedes/leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coreycasmedes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/coreycasmedes/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/coreycasmedes/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/coreycasmedes/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/coreycasmedes/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/coreycasmedes/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/coreycasmedes/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1129-longest-string-chain](https://github.com/coreycasmedes/leetcode/tree/master/1129-longest-string-chain) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/coreycasmedes/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/coreycasmedes/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/coreycasmedes/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/coreycasmedes/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Linked List
 |  |
