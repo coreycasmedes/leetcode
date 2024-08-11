@@ -106,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/coreycasmedes/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/coreycasmedes/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/coreycasmedes/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/coreycasmedes/leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/coreycasmedes/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
